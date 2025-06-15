@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Gian Carlo 👋
 
-<!--
-**crispyp0tat0/crispyp0tat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with a focus on applied systems and practical development.
 
-Here are some ideas to get you started:
+🛠️ **Languages I'm familiar with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `C` (Not C++, but maybe someday)
+- `Python`
+- `Java` (a bit)
+- `Kotlin` (learning actively)
+- `Assembly` (I forgot most of it, honestly)
+- `HTML` (if that counts)
+- `CSS` (not exactly a designer)
+- `JavaScript` (I was coerced)
+
+📌 **Current Work**
+
+- Thesis on AR navigation using CNN + LSTM
+
+📊 **GitHub Stats**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crispyp0tat0&layout=compact&theme=default)
+
+---
+
+📫 **Reach me at:**  
+
+[📧 Email](mailto:gibata@my.cspc.edu.ph) | [🔗 LinkedIn](https://www.linkedin.com/in/gian-carlo-bata-8a1a05354/)
+
+🧠 *"Learn by doing."*
